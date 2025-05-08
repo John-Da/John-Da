@@ -2,7 +2,7 @@
 
 - 📖 currently learning AI automation, web design and 3d animation for game dev
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/meetoo.jj223/) [![GitHub](https://img.shields.io/badge/GitHub-%63B4409F.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://john-da.github.io/yendahwa/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/meetoo.jj223/) [![GitHub](https://img.shields.io/badge/Da_Hwa's_Portfolio-%63B4409F.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://john-da.github.io/yendahwa/) 
 
 <hr/>
 
