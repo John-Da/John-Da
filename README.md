@@ -1,4 +1,4 @@
-# Hello, 👋
+# Hello 👋
 
 - 📖 currently learning AI automation, web design and 3d animation for game dev
 - You can also reach me out through via <p/>
