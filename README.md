@@ -3,10 +3,11 @@
 - 📖 currently learning AI automation, web design and 3d animation for game dev
 - You can also reach me out through via <p/>
 <a href="https://www.instagram.com/meetoo.jj223/" title="Instagram"><img alt="Email"  src="https://skillicons.dev/icons?i=instagram" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/da-hwa-yen-740144328/" title="LinkedIn"><img alt="LinkedIn"  src="https://skillicons.dev/icons?i=linkedin" height="30" align="center"/></a> <a href="https://web.facebook.com/mee.too.869481" title="Facebook"><img alt="Facebook"  src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" height="30" align="center"/></a>
+- <a href="https://john-da.github.io/yendahwa" title="Portfolio"><img alt="User"  src="https://img.shields.io/badge/Portfolio-View-f59042?style=for-the-badge" height="30" align="center"/></a>
 
 <hr/>
 
-## 🪧 My Recent Mini Projects: <a href="https://john-da.github.io/yendahwa" title="Portfolio"><img alt="User"  src="https://img.shields.io/badge/Portfolio-View-f59042?style=for-the-badge" height="30" align="center"/></a>
+## 🪧 My Recent Mini Projects:
 
 1. [Basic Math Game](https://john-da.github.io/Basic-Math/)
 2. [Technova Webpage](https://john-da.github.io/technova/)
