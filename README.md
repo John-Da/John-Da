@@ -8,8 +8,8 @@
 
 ## 🪧 My Recent Mini Projects: <a href="https://john-da.github.io/yendahwa" title="Portfolio"><img alt="User"  src="https://img.shields.io/badge/Portfolio-View-f59042?style=for-the-badge" height="30" align="center"/></a>
 
-1. [Basic Math Game (frontend)](https://john-da.github.io/Basic-Math/)
-2. [Technova Webpage (frontend)](https://john-da.github.io/technova/)
+1. [Basic Math Game](https://john-da.github.io/Basic-Math/)
+2. [Technova Webpage](https://john-da.github.io/technova/)
 <hr/>
 
 ## 📂 🛠️ Tools: <br/>
