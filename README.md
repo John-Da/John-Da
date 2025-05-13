@@ -1,7 +1,3 @@
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=52faff&height=120&section=header"/>
-</a>
-
 # Hello 👋
 
 - 📖 currently learning AI automation, web design and 3d animation for game dev
@@ -11,9 +7,8 @@
 <a href="https://web.facebook.com/mee.too.869481" title="Facebook"><img alt="Facebook" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" height="30" align="center"/></a>
 - <a href="https://john-da.github.io/yendahwa" title="Portfolio"><img alt="User" src="https://img.shields.io/badge/Portfolio-View-f59042?style=for-the-badge" height="30" align="center"/></a>
 
-<br>
-
 ## 📂 🛠️ Tools: <br/>
+
 <div display="inline-block">
   <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"></a>
@@ -53,14 +48,18 @@
   </a>
 </div>
 
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=52faff&height=120&section=footer"/>
-</a>
-
 <br>
 
-## 🪧 My Recent Mini Projects:
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=52faff&height=120&section=header"/>
+</a>
+
+# 🪧 My Recent Mini Projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=john-da&repo=Basic-Math&theme=codeSTACKr)](https://john-da.github.io/Basic-Math/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=john-da&repo=technova&theme=codeSTACKr)](https://john-da.github.io/technova/)
 
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=52faff&height=120&section=footer"/>
+</a>
