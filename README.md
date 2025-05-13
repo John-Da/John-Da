@@ -21,7 +21,7 @@
 <br>
 
 ## 📂 🛠️ Tools: <br/>
-<div style="display: inline-block;">
+<div display="inline-block">
   <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"></a>
     <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"></a>
@@ -41,14 +41,13 @@
     <a href="#"><img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot Engine Badge"></a>
     <a href="#"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"></a>
   </p>
-</div>
-
-<br>
-
-<div style="align:center">
-  <br>
-  <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&bg_color=0d1117">
-  <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0d1117">
+  
+  <div align="center">
+    <br>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&bg_color=0d1117">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0d1117">
+  </div>
+  
 </div>
 
 <a href="#">
