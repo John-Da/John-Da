@@ -7,6 +7,8 @@
 <a href="https://web.facebook.com/mee.too.869481" title="Facebook"><img alt="Facebook" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" height="30" align="center"/></a>
 - <a href="https://john-da.github.io/yendahwa" title="Portfolio"><img alt="User" src="https://img.shields.io/badge/Portfolio-View-f59042?style=for-the-badge" height="30" align="center"/></a>
 
+<br>
+
 ## 📂 🛠️ Tools: <br/>
 
 <div display="inline-block">
@@ -38,6 +40,8 @@
     <img height="203rem" alt="Profile Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=john-da&theme=github_dark">
   </a>
 </div>
+
+<br>
 
 <div align="center">
   <a href="#">
