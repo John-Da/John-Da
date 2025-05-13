@@ -1,3 +1,7 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
+
 # Hello 👋
 
 - 📖 currently learning AI automation, web design and 3d animation for game dev
@@ -7,10 +11,14 @@
 <a href="https://web.facebook.com/mee.too.869481" title="Facebook"><img alt="Facebook" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" height="30" align="center"/></a>
 - <a href="https://john-da.github.io/yendahwa" title="Portfolio"><img alt="User" src="https://img.shields.io/badge/Portfolio-View-f59042?style=for-the-badge" height="30" align="center"/></a>
 
+<br>
+
 ## 🪧 My Recent Mini Projects:
 
 1. [Basic Math Game](https://john-da.github.io/Basic-Math/) 
 2. [Technova Webpage](https://john-da.github.io/technova/)
+
+<br>
 
 ## 📂 🛠️ Tools: <br/>
 <div style="display: inline-block;">
@@ -35,10 +43,15 @@
   </p>
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=john-da&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<p/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=john-da&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
+<div style="align:center">
+  <br>
+  <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&bg_color=0d1117">
+  <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0d1117">
+</div>
 
-
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
 
