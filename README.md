@@ -60,8 +60,8 @@
 
 # 🪧 My Recent Mini Projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=john-da&repo=Basic-Math&theme=codeSTACKr)](https://john-da.github.io/Basic-Math/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=john-da&repo=technova&theme=codeSTACKr)](https://john-da.github.io/technova/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=john-da&repo=Basic-Math&theme=codeSTACKr)](https://github.com/John-Da/Basic-Math)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=john-da&repo=technova&theme=codeSTACKr)](https://github.com/John-Da/technova)
 
 
 <a href="#">
