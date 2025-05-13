@@ -46,7 +46,7 @@
 <br>
 
 <div align="center">
-  <img height="180rem" alt="Profile Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=john-da&theme=github_dark">
+  <img height="203rem" alt="Profile Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=john-da&theme=github_dark">
 </div>
 
 <br>
