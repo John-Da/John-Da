@@ -60,9 +60,14 @@
 
 # 🪧 My Recent Mini Projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=john-da&repo=Basic-Math&theme=codeSTACKr)](https://github.com/John-Da/Basic-Math)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=john-da&repo=technova&theme=codeSTACKr)](https://github.com/John-Da/technova)
-
+<div align="center">
+  <a href="https://github.com/John-Da/Basic-Math">
+    <img height="132rem" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=john-da&repo=Basic-Math&theme=codeSTACKr">
+  </a>
+  <a href="https://github.com/John-Da/technova">
+    <img height="132rem" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=john-da&repo=technova&theme=codeSTACKr">
+  </a>
+</div>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=52faff&height=120&section=footer"/>
