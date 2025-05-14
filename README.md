@@ -62,10 +62,10 @@
 
 <div align="center">
   <a href="https://github.com/John-Da/Basic-Math">
-    <img height="122rem" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=john-da&repo=Basic-Math&theme=codeSTACKr">
+    <img height="124rem" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=john-da&repo=Basic-Math&theme=codeSTACKr">
   </a>
   <a href="https://github.com/John-Da/technova">
-    <img height="122rem" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=john-da&repo=technova&theme=codeSTACKr">
+    <img height="124rem" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=john-da&repo=technova&theme=codeSTACKr">
   </a>
 </div>
 
