@@ -60,7 +60,7 @@
 
 # 🪧 My Recent Mini Projects:
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/John-Da/Basic-Math">
     <img height="125rem" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=john-da&repo=Basic-Math&theme=codeSTACKr">
   </a>
