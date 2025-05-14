@@ -60,9 +60,9 @@
 
 # 🪧 My Recent Mini Projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=john-da&repo=Basic-Math&theme=codeSTACKr)](https://github.com/John-Da/Basic-Math)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=john-da&repo=sport-club&theme=codeSTACKr)](https://github.com/John-Da/sport-club)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=john-da&repo=technova&theme=codeSTACKr)](https://github.com/John-Da/technova)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=John-Da&repo=Basic-Math&theme=codeSTACKr)](https://github.com/John-Da/Basic-Math)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=John-Da&repo=sport-club&theme=codeSTACKr)](https://github.com/John-Da/sport-club)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=John-Da&repo=technova&theme=codeSTACKr)](https://github.com/John-Da/technova)
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=52faff&height=120&section=footer"/>
