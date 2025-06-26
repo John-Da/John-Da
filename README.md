@@ -1,6 +1,6 @@
 # Hello 👋
 
-- 📖 currently learning Robotic AI, Web Design and 3d Animation
+- 📖 Robotic, Web Designs and 3d Animation
 
 <!-- You can also reach me out through via
 <a href="https://www.instagram.com/meetoo.jj223/" title="Instagram"><img alt="Email" src="https://skillicons.dev/icons?i=instagram" height="30" align="center"/></a>
