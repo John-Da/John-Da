@@ -19,19 +19,22 @@
 
 <div align="center">
   <a href="#">
-    <img height="203rem" alt="Profile Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=john-da&theme=github_dark">
+    <img height="203rem" alt="Profile Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=john-da&theme=github_dark"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
+  
   <a href="#">
-    <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&bg_color=0d1117">
+    <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&bg_color=0d1117"/>
   </a>
+  
   <a href="#">
-    <img height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0d1117">
+    <img height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0d1117"/>
   </a>
+  
 </div>
 
 <!--
