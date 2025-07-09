@@ -34,6 +34,8 @@
   </a>
 </div>
 
+<!--
+
 <br>
 
 <a href="#">
@@ -49,3 +51,5 @@
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=52faff&height=120&section=footer"/>
 </a>
+
+-->
