@@ -1,4 +1,8 @@
+<br>
+
 ### Hello 👋
+
+<br>
 
 > 📖 Making progresses on Web Designs/Developments, Robotic/Dectections and 2D/3D Animation
 
@@ -12,3 +16,4 @@ I mostly do prototypes and explore new experiments, pushing the boundaries of wh
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=john-da&theme=github_dark&hide_border=true" alt="GitHub Streak" height="147rem" />
 </div>
 
+<br>
