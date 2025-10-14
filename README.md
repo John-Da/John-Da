@@ -16,7 +16,7 @@ I mostly do prototypes and explore new experiments, pushing the boundaries of wh
 
 <div>
   <img
-    src="https://github-profile-trophy.vercel.app/?username=john-da&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5&column=4&title=Stars,Followers,Experience"
+    src="https://github-profile-trophy.vercel.app/?username=john-da&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5&column=4&title=Experience"
     alt="🏆 GitHub Trophies by Rank"
   />
   <!-- <img
