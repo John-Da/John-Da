@@ -14,11 +14,15 @@ I mostly do prototypes and explore new experiments, pushing the boundaries of wh
   <img height="310rem" alt="John Da's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=john-da&theme=github-dark&hide_border=true&hide_title=true"/>
 </div>
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=john-da&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7"
+<div>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=john-da&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5&column=4&title=Stars,Followers,Experience"
     alt="🏆 GitHub Trophies by Rank"
   />
-</p>
+  <!-- <img
+    src="https://api.vaunt.dev/v1/github/entities/john-da/achievements?format=svg&limit=3"
+    height="240rem"
+  /> -->
+</div>
 
 <br>
