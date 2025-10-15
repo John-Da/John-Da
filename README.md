@@ -1,7 +1,5 @@
 ## Hello 👋
 
-<br>
-
 > 📖 Making progresses on Web Designs/Developments, Robotic/Dectections and 2D/3D Animation
 
 I mostly do prototypes and explore new experiments, pushing the boundaries of what’s possible and learning along the way. I enjoy turning ideas into tangible concepts, iterating rapidly, and discovering creative solutions that can make an impact. Every experiment is an opportunity to grow, innovate, and challenge conventional approaches.
