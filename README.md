@@ -10,7 +10,7 @@ I mostly do prototypes and explore new experiments, pushing the boundaries of wh
 
 <div align="center">
   <img height="137rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117"/>
-  <img height="140rem" alt="Profile Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=john-da&theme=github_dark"/>
+  <img height="140rem" alt="Profile Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=john-da&theme=transparent"/>
   <img height="310rem" alt="John Da's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=john-da&theme=github-dark&hide_border=true&hide_title=true"/>
 </div>
 
