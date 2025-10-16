@@ -81,7 +81,7 @@ I mostly do prototypes and explore new experiments, pushing the boundaries of wh
   <img 
     alt="John Da's Activity Graph"
     src="https://github-readme-activity-graph.vercel.app/graph?username=john-da&theme=github-dark&hide_border=true&custom_title=Activity&hide_title=false"
-    height="180"
+    height="170"
   />
 </div>
 
