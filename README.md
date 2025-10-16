@@ -42,24 +42,24 @@ I mostly do prototypes and explore new experiments, pushing the boundaries of wh
         <img
           src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
           alt="Cat with Tears of Joy"
-          width="100"
-          height="100"
+          width="90"
+          height="90"
           style="vertical-align: middle;"
         />
         &nbsp;&nbsp;&nbsp;
         <img
           src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png"
           alt="Heart On Fire"
-          width="100"
-          height="100"
+          width="90"
+          height="90"
           style="vertical-align: middle;"
         />
   &nbsp;&nbsp;&nbsp;
         <img
           src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png"
           alt="Bomb"
-          width="100"
-          height="100"
+          width="90"
+          height="90"
           style="vertical-align: middle;"
         />
         &nbsp;&nbsp;&nbsp;
@@ -81,7 +81,7 @@ I mostly do prototypes and explore new experiments, pushing the boundaries of wh
   <img 
     alt="John Da's Activity Graph"
     src="https://github-readme-activity-graph.vercel.app/graph?username=john-da&theme=github-dark&hide_border=true&custom_title=Activity&hide_title=false"
-    height="200"
+    height="160"
   />
 </div>
 
