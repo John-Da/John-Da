@@ -13,7 +13,7 @@ I mostly do prototypes and explore new experiments, pushing the boundaries of wh
     <td valign="top">
       <p>
         <img 
-          src="https://metrics.lecoq.io/john-da?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false"
+          src="https://metrics.lecoq.io/john-da?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.hireable=false&base.skip=false"
           alt="GitHub Metrics"
         />
       </p>
@@ -28,7 +28,7 @@ I mostly do prototypes and explore new experiments, pushing the boundaries of wh
     <td valign="top">
       <p>
         <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=john-da&theme=github_dark&hide_border=true"
+          src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=john-da&theme=github_dark&hide_border=true"
           alt="Repos Per Language"
         />
       </p>
