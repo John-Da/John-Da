@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="50" height="50" /> &nbsp; Hello
 
-> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📖+Making+progresses+on;Web+Designs/Developments;Robotic/Dectections;2D/3D+Animation)]()
+> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📖+Making+progresses+in;Web+Designs/Developments;Robotic/Dectections;2D/3D+Animation)]()
 
 I mostly do prototypes and explore new experiments, pushing the boundaries of what’s possible and learning along the way. I enjoy turning ideas into tangible concepts, iterating rapidly, and discovering creative solutions that can make an impact. Every experiment is an opportunity to grow, innovate, and challenge conventional approaches.
 
