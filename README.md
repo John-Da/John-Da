@@ -7,14 +7,14 @@ I mostly do prototypes and explore new experiments, pushing the boundaries of wh
 <br>
 
 <div>
-<table border="0" cellspacing="10" cellpadding="0">
+<table border="0" cellspacing="10" cellpadding="0" width="100%">
   <tr>
     <!-- Left Column -->
     <td valign="top">
       <p>
         <img 
-          src="https://metrics.lecoq.io/john-da?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.hireable=false&base.skip=false"
-          alt="GitHub Metrics"
+          src="https://api.vaunt.dev/v1/github/entities/john-da/achievements?format=svg&limit=3"
+          alt="GitHub Achievements"
         />
       </p>
       <p>
@@ -69,38 +69,31 @@ I mostly do prototypes and explore new experiments, pushing the boundaries of wh
 </table>
 </div>
 
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td align="center" valign="middle" width="90">
+      <img 
+        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"
+        alt="Robot"
+        width="90"
+        height="90"
+      />
+    </td>
+    <td align="center" valign="middle">
+      <img 
+        alt="John Da's Activity Graph"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=john-da&theme=github-dark&hide_border=true&custom_title=Activity&hide_title=false"
+      />
+    </td>
+  </tr>
+</table>
 
-
-<div>
-  <img 
-    src="https://api.vaunt.dev/v1/github/entities/john-da/achievements?format=svg&limit=3"
-    alt="GitHub Achievements"
-    height="180"
-  />
-  &nbsp;
-  <img 
-    alt="John Da's Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=john-da&theme=github-dark&hide_border=true&custom_title=Activity&hide_title=false"
-    height="174"
-  />
-</div>
-
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"
-    alt="Robot"
-    width="90"
-    height="90"
-    style="vertical-align: middle;"
-  />
-  &nbsp;&nbsp;&nbsp;
+<p>
   <img
     src="https://github-profile-trophy.vercel.app/?username=john-da&theme=tokyonight&cols=4&no-frame=true&margin-w=5&margin-h=5&title=Experience"
     alt="GitHub Trophies"
-    width="85%"
   />
-</div>
+</p>
 
 
 <br>
