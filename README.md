@@ -4,6 +4,8 @@
 
 I mostly do prototypes and explore new experiments, pushing the boundaries of what’s possible and learning along the way. I enjoy turning ideas into tangible concepts, iterating rapidly, and discovering creative solutions that can make an impact. Every experiment is an opportunity to grow, innovate, and challenge conventional approaches.
 
+[![Static Badge](https://img.shields.io/badge/DaDa-Portfolio-blue?style=for-the-badge&logo=user&logoColor=white)](https://john-da.github.io/yendahwa/)
+
 <br>
 
 <div>
@@ -87,13 +89,5 @@ I mostly do prototypes and explore new experiments, pushing the boundaries of wh
     </td>
   </tr>
 </table>
-
-<p>
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=john-da&theme=tokyonight&cols=4&no-frame=true&margin-w=5&margin-h=5&title=Experience"
-    alt="GitHub Trophies"
-  />
-</p>
-
 
 <br>
