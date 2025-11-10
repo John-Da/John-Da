@@ -58,7 +58,7 @@ I mostly do prototypes and explore new experiments, pushing the boundaries of wh
         />
   &nbsp;&nbsp;&nbsp;
         <img
-          src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png"
+          src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Ping%20Pong.png"
           alt="Bomb"
           width="90"
           height="90"
