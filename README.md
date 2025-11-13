@@ -2,7 +2,7 @@
 
 > [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📖+Making+progresses+in;Web+Designs/Developments;Robotic/Dectections;2D/3D+Animation)]()
 
-I mostly do prototypes and explore new experiments, pushing the boundaries of what’s possible and learning along the way. I enjoy turning ideas into tangible concepts, iterating rapidly, and discovering creative solutions that can make an impact. Every experiment is an opportunity to grow, innovate, and challenge conventional approaches.
+I mostly build prototypes and try out new experiments, learning as I go. I love turning ideas into real things, iterating quickly, and finding creative solutions that actually make a difference. Every experiment is a chance to grow, get creative, and challenge the usual way of doing things.
 
 [![Static Badge](https://img.shields.io/badge/DaDa-Portfolio-blue?style=for-the-badge&logo=user&logoColor=white)](https://john-da.github.io/yendahwa/)
 
