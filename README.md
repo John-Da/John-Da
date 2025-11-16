@@ -88,7 +88,7 @@ I mostly build prototypes and try out new experiments, learning as I go. I love 
       />
       <a href="#">
         <!-- <img height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyiNyiMyo&theme=dark&hide_border=false&include_all_commits=True&count_private=True&count=8"> -->
-       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-liart.vercel.app?user=john-da&theme=blueberry&card_height=180" alt="GitHub Streak" /></a>
+       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-ashen-44.vercel.app?user=john-da&theme=blueberry&card_height=180" alt="GitHub Streak" /></a>
       </a>
     </td>
   </tr>
