@@ -15,7 +15,7 @@ I mostly build prototypes and try out new experiments, learning as I go. I love 
     <td valign="top">
       <p>
         <img 
-          src="https://github-readme-streak-stats-seven-ashen-44.vercel.app?user=john-da&theme=blueberry"
+          src="https://github-readme-streak-stats-seven-ashen-44.vercel.app?user=john-da&theme=github_dark&hide_border=true"
           alt="GitHub Streak"
         />
       </p>
