@@ -15,14 +15,14 @@ I mostly build prototypes and try out new experiments, learning as I go. I love 
     <td valign="top">
       <p>
         <img 
-          src="https://github-readme-streak-stats-seven-ashen-44.vercel.app?user=john-da&theme=github_dark&hide_border=true"
-          alt="GitHub Streak"
+          alt="GitHub Stats"
+          src="https://github-readme-stats.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117"
         />
       </p>
       <p>
         <img 
-          alt="GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117"
+          src="https://github-readme-streak-stats-seven-ashen-44.vercel.app?user=john-da&theme=github_dark&hide_border=true"
+          alt="GitHub Streak"
         />
       </p>
     </td>
@@ -30,14 +30,14 @@ I mostly build prototypes and try out new experiments, learning as I go. I love 
     <td valign="top">
       <p>
         <img 
-          src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=john-da&theme=github_dark&hide_border=true"
-          alt="Repos Per Language"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-da&hide=html&hide_border=true&layout=compact&langs_count=8&theme=github_dark"
+          alt="Top Languages"
         />
       </p>
       <p>
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-da&hide=html&hide_border=true&layout=compact&langs_count=8&theme=github_dark"
-          alt="Top Languages"
+          src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=john-da&theme=github_dark&hide_border=true"
+          alt="Repos Per Language"
         />
       </p>
     </td>
