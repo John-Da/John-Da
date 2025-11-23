@@ -6,7 +6,101 @@ I mostly build prototypes and try out new experiments, learning as I go. I love 
 
 [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg)](https://john-da.github.io/yendahwa/)
 
-<br>
+<hr/>
+
+<details>
+  <summary><b>Hightlights</b></summary>
+  <br/>
+  <table>
+    <!-- 1st Row -->
+    <tr>
+      <td>
+        <p>
+          <a href="https://john-da.github.io/reactTfjs-cocossd/">
+            <img 
+              alt="icon" 
+              src="https://img.shields.io/badge/COCO_SSD_TFJS_ON_ReactWEB-00AFFF?style=for-the-badge&logo=View"
+            />
+          </a>
+        </p>
+      </td>
+      <td>
+        <p>
+          <a href="https://john-da.github.io/technova/">
+            <img 
+              alt="icon" 
+              src="https://img.shields.io/badge/Technova_Webpage-B9FBC0?style=for-the-badge&logo=View&logoColor=white"
+            />
+          </a>
+        </p>
+      </td>
+      <td>
+        <p>
+          <a href="https://john-da.github.io/csvViewer-ReactFlask/">
+            <img 
+              alt="icon" 
+              src="https://img.shields.io/badge/CSV_Viewer_On_ReactWEB-D8B4F8?style=for-the-badge&logo=View&logoColor=white"
+            />
+          </a>
+        </p>
+      </td>
+      <td>
+        <p>
+          <a href="https://sport-club-2vou.onrender.com/">
+            <img 
+              alt="icon" 
+              src="https://img.shields.io/badge/Sport_Club_Webpage-FFD6A5?style=for-the-badge&logo=View&logoColor=white"
+            />
+          </a>
+        </p>
+      </td>
+      <td>
+        <p>
+          <a href="https://github.com/John-Da/Binary-Object-Detection-using-YoloV8-plus-SAM">
+            <img 
+              alt="icon" 
+              src="https://img.shields.io/badge/YOLO_SAM_DET-C3FBD8?style=for-the-badge&logo=View&logoColor=white"
+            />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <!-- 2nd Row -->
+    <tr>
+      <td>
+        <p>
+          <a href="https://github.com/John-Da/YoloV9-Panoptic-Captioning-Image-Using-Key2Text">
+            <img 
+              alt="icon" 
+              src="https://img.shields.io/badge/Image_Caption_YOLO_Key2Text-A5D8FF?style=for-the-badge&logo=View&logoColor=white"
+            />
+          </a>
+        </p>
+      </td>
+      <td>
+        <p>
+          <a href="https://github.com/John-Da/DetectTO-Mobile-WebBased-App">
+            <img 
+              alt="icon" 
+              src="https://img.shields.io/badge/Mobile_WebApp-2E2E2E?style=for-the-badge&logo=View&logoColor=white"
+            />
+          </a>
+        </p>
+      </td>
+      <td>
+        <p>
+          <a href="https://github.com/John-Da/Detection-Interface-Using-TKInter">
+            <img 
+              alt="icon" 
+              src="https://img.shields.io/badge/TKInter_GUI_DET-580F25?style=for-the-badge&logo=View&logoColor=white"
+            />
+          </a>
+        </p>
+      </td>
+  </table>
+</details>
+
+<hr/>
 
 <div>
 <table border="0" cellspacing="10" cellpadding="0" width="100%">
@@ -110,4 +204,6 @@ I mostly build prototypes and try out new experiments, learning as I go. I love 
 </table>
 
 <br>
+
+
 
