@@ -9,7 +9,7 @@ I mostly build prototypes and try out new experiments, learning as I go. I love 
 <hr/>
 
 <details>
-  <summary><b>Hightlights</b></summary>
+  <summary><b>Project Hightlights</b></summary>
   <br/>
   <table>
     <!-- 1st Row -->
