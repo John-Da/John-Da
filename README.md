@@ -110,7 +110,7 @@ I mostly build prototypes and try out new experiments, learning as I go. I love 
       <p>
         <img 
           alt="GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117"
+          src="https://github-readme-stats-mu-topaz-29.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117"
         />
       </p>
       <p>
