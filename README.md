@@ -123,10 +123,10 @@ I mostly build prototypes and try out new experiments, learning as I go. I love 
     <!-- Right Column -->
     <td valign="top">
       <p>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-da&hide=html&hide_border=true&layout=compact&langs_count=8&theme=github_dark"
+        <!-- <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-da&hide_border=true&layout=compact&langs_count=8&theme=github_dark"
           alt="Top Languages"
-        />
+        /> -->
       </p>
       <p>
         <img 
