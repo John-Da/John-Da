@@ -145,7 +145,7 @@ I mostly build prototypes and try out new experiments, learning as I go. I love 
       <td valign="top" width="92%" >
         <p>
           <img 
-            alt="GitHub Stats" width="45%"
+            alt="GitHub Stats" width="55%"
             src="https://github-readme-stats-mu-topaz-29.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117"
           />
           &nbsp;&nbsp;&nbsp;
