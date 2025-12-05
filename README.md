@@ -169,7 +169,6 @@ I mostly build prototypes and try out new experiments, learning as I go. I love 
     </tr>
   </table>
 </div>
-
     
 <p align="center" valign="middle">
   <img 
