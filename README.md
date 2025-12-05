@@ -42,12 +42,6 @@ I mostly build prototypes and try out new experiments, learning as I go. I love 
           />
         </a>
         &nbsp;&nbsp;&nbsp;
-      </td>
-    </tr>
-    <!-- 2nd Row -->
-    <tr>
-      <td colspan="2">
-        &nbsp;&nbsp;&nbsp;
         <a href="https://github.com/John-Da/YoloV9-Panoptic-Captioning-Image-Using-Key2Text">
           <img 
             alt="YOLO Key2Text" 
