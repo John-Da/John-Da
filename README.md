@@ -103,105 +103,106 @@ I mostly build prototypes and try out new experiments, learning as I go. I love 
 <hr/>
 
 <div>
-<table border="0" cellspacing="10" cellpadding="0" width="100%">
-  <tr>
-    <!-- Left Column -->
-    <td valign="top">
-      <p>
-        <img 
-          alt="GitHub Stats"
-          src="https://github-readme-stats-mu-topaz-29.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117"
-        />
-      </p>
-      <p>
-        <img 
-          src="https://github-readme-streak-stats-seven-ashen-44.vercel.app?user=john-da&theme=github_dark&hide_border=true"
-          alt="GitHub Streak"
-        />
-      </p>
-    </td>
-    <!-- Right Column -->
-    <td valign="top">
-      <p>
-        <!-- <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-da&hide_border=true&layout=compact&langs_count=8&theme=github_dark"
-          alt="Top Languages"
-        /> -->
-      </p>
-      <p>
-        <img 
-          src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=john-da&theme=github_dark&hide_border=true"
-          alt="Repos Per Language"
-        />
-      </p>
-    </td>
-  </tr>
-</table>
+  <table border="0" cellspacing="10" cellpadding="0" width="100%">
+    <tr>
+      <!-- Left Column -->
+      <td align="center" valign="middle" width="8%">
+        <p>
+          <img 
+            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"
+            alt="Robot"
+            width="90"
+            height="90"
+            style="vertical-align: middle;"
+          />
+          <img
+            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
+            alt="Cat with Tears of Joy"
+            width="90"
+            height="90"
+            style="vertical-align: middle;"
+          />
+          &nbsp;&nbsp;&nbsp;
+          <img
+            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png"
+            alt="Heart On Fire"
+            width="90"
+            height="90"
+            style="vertical-align: middle;"
+          />
+    &nbsp;&nbsp;&nbsp;
+          <img
+            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Ping%20Pong.png"
+            alt="Bomb"
+            width="90"
+            height="90"
+            style="vertical-align: middle;"
+          />
+          &nbsp;&nbsp;&nbsp;
+        </p>
+      </td>
+      <!-- Right Column -->
+      <td valign="top" width="92%" >
+        <p>
+          <img 
+            alt="GitHub Stats"
+            src="https://github-readme-stats-mu-topaz-29.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117"
+          />
+          &nbsp;&nbsp;&nbsp;
+          <img 
+            src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=john-da&theme=github_dark&hide_border=true"
+            alt="Repos Per Language"
+          />
+        </p>
+        <p>
+          <img 
+            src="https://github-readme-streak-stats-seven-ashen-44.vercel.app?user=john-da&theme=github_dark&hide_border=true"
+            alt="GitHub Streak"
+          />
+          &nbsp;&nbsp;&nbsp;
+          <img 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-da&hide_border=true&layout=compact&langs_count=8&theme=github_dark"
+            alt="Top Languages"
+          />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<table align="center" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td align="center" valign="middle" width="90">
-      <p>
-        <img 
-          src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"
-          alt="Robot"
-          width="90"
-          height="90"
-          style="vertical-align: middle;"
-        />
-        <img
-          src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
-          alt="Cat with Tears of Joy"
-          width="90"
-          height="90"
-          style="vertical-align: middle;"
-        />
-        &nbsp;&nbsp;&nbsp;
-        <img
-          src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png"
-          alt="Heart On Fire"
-          width="90"
-          height="90"
-          style="vertical-align: middle;"
-        />
-  &nbsp;&nbsp;&nbsp;
-        <img
-          src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Ping%20Pong.png"
-          alt="Bomb"
-          width="90"
-          height="90"
-          style="vertical-align: middle;"
-        />
-        &nbsp;&nbsp;&nbsp;
-      </p>
-    </td>
-    <td align="center" valign="middle">
-      <img 
-        alt="John Da's Activity Graph"
-        src="https://github-readme-activity-graph.vercel.app/graph?username=john-da&theme=github-dark&hide_border=true&custom_title=Activity&hide_title=false"
-      />
-      <p>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg"/>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"/>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg"/>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg"/>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg"/>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg"/><br/>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask1.svg"/>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg"/>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"/>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg"/>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"/>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg"/>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg"/>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg"/>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg"/>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg"/>
-      </p>
-    </td>
-  </tr>
-</table>
+    
+<p align="center" valign="middle">
+  <img 
+    alt="John Da's Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=john-da&theme=github-dark&hide_border=true&custom_title=Activity&hide_title=false"
+  />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD92E" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="badge" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="badge" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="badge" />
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" alt="badge" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="badge" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="badge" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="badge" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=green" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-1E1E1E?style=flat-square&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=vscode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Roboflow-111111?style=flat-square&logo=roboflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
+</p>
 
 <br>
 
