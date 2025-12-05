@@ -6,164 +6,143 @@ I mostly build prototypes and try out new experiments, learning as I go. I love 
 
 [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg)](https://dahwa-portfolio.vercel.app/)
 
-<hr/>
+<table align="center" width="100%">
+  <!-- Top Stats Row -->
+  <tr>
+    <td align="center" colspan="3">
+      <img 
+        alt="GitHub Stats"
+        width="55%"
+        src="https://github-readme-stats-mu-topaz-29.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117"
+      />
+      &nbsp;&nbsp;
+      <img 
+        width="40%"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=john-da&theme=github_dark&hide_border=true"
+        alt="Repos Per Language"
+      />
+    </td>
+  </tr>
+  <!-- Project Highlights -->
+  <tr>
+    <td colspan="3" align="center">
+      <details>
+        <summary><b>🔥 Project Highlights</b></summary>
+        <br/>
+        <table align="center">
+          <!-- 1st Row -->
+          <tr>
+            <td colspan="2">
+              &nbsp;&nbsp;&nbsp;
+              <a href="https://john-da.github.io/reactTfjs-cocossd/">
+                <img 
+                  alt="COCO SSD" 
+                  src="https://img.shields.io/badge/COCO_SSD_TFJS_ON_ReactWEB-00AFFF?style=for-the-badge&logo=View"
+                />
+              </a>
+              &nbsp;&nbsp;
+              <a href="https://john-da.github.io/technova/">
+                <img 
+                  alt="Technova" 
+                  src="https://img.shields.io/badge/Technova_Webpage-B9FBC0?style=for-the-badge&logo=View&logoColor=white"
+                />
+              </a>
+              &nbsp;&nbsp;&nbsp;
+              <a href="https://john-da.github.io/csvViewer-ReactFlask/">
+                <img 
+                  alt="CSV Viewer" 
+                  src="https://img.shields.io/badge/CSV_Viewer_On_ReactWEB-D8B4F8?style=for-the-badge&logo=View&logoColor=white"
+                />
+              </a>
+              &nbsp;&nbsp;&nbsp;
+              <a href="https://sport-club-2vou.onrender.com/">
+                <img 
+                  alt="Sport Club" 
+                  src="https://img.shields.io/badge/Sport_Club_Webpage-FFD6A5?style=for-the-badge&logo=View&logoColor=white"
+                />
+              </a>
+              &nbsp;&nbsp;&nbsp;
+            </td>
+          </tr>
+          <!-- 2nd Row -->
+          <tr>
+            <td colspan="2">
+              &nbsp;&nbsp;&nbsp;
+              <a href="https://github.com/John-Da/YoloV9-Panoptic-Captioning-Image-Using-Key2Text">
+                <img 
+                  alt="YOLO Key2Text" 
+                  src="https://img.shields.io/badge/Image_Caption_YOLO_Key2Text-A5D8FF?style=for-the-badge&logo=View&logoColor=white"
+                />
+              </a>
+              &nbsp;&nbsp;&nbsp;
+              <a href="https://github.com/John-Da/DetectTO-Mobile-WebBased-App">
+                <img 
+                  alt="Mobile WebApp" 
+                  src="https://img.shields.io/badge/Mobile_WebApp-2E2E2E?style=for-the-badge&logo=View&logoColor=white"
+                />
+              </a>
+              &nbsp;&nbsp;&nbsp;
+              <a href="https://github.com/John-Da/Detection-Interface-Using-TKInter">
+                <img 
+                  alt="TKInter GUI" 
+                  src="https://img.shields.io/badge/TKInter_GUI_DET-580F25?style=for-the-badge&logo=View&logoColor=white"
+                />
+              </a>
+              &nbsp;&nbsp;&nbsp;
+              <a href="https://github.com/John-Da/Binary-Object-Detection-using-YoloV8-plus-SAM">
+                <img 
+                  alt="YOLO SAM DET" 
+                  src="https://img.shields.io/badge/YOLO_SAM_DET-C3FBD8?style=for-the-badge&logo=View&logoColor=white"
+                />
+              </a>
+              &nbsp;&nbsp;&nbsp;
+            </td>
+          </tr>
+        </table>
+      </details>
+    </td>
+  </tr>
+  <!-- Left | Center | Right Emojis & Streak -->
+  <tr>
+    <!-- Left Column -->
+    <td align="center" valign="middle" width="10%">
+      <img 
+        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"
+        width="90"
+        height="90"
+      />
+      <br/><br/>
+      <img
+        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
+        width="90"
+        height="90"
+      />
+    </td>
+    <!-- Center Column -->
+    <td align="center" valign="middle" width="80%">
+      <img 
+        src="https://github-readme-streak-stats-seven-ashen-44.vercel.app?user=john-da&theme=github_dark&hide_border=true"
+        alt="GitHub Streak"
+        width="75%"
+      />
+    </td>
+    <!-- Right Column -->
+    <td align="center" valign="middle" width="10%">
+      <img
+        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png"
+        width="90"
+        height="90"
+      />
+      <br/><br/>
+      <img
+        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Ping%20Pong.png"
+        width="90"
+        height="90"
+      />
+    </td>
+  </tr>
+</table>
 
-<details>
-  <summary><b>Project Hightlights</b></summary>
-  <br/>
-  <table>
-    <!-- 1st Row -->
-    <tr>
-      <td>
-        <p>
-          <a href="https://john-da.github.io/reactTfjs-cocossd/">
-            <img 
-              alt="icon" 
-              src="https://img.shields.io/badge/COCO_SSD_TFJS_ON_ReactWEB-00AFFF?style=for-the-badge&logo=View"
-            />
-          </a>
-        </p>
-      </td>
-      <td>
-        <p>
-          <a href="https://john-da.github.io/technova/">
-            <img 
-              alt="icon" 
-              src="https://img.shields.io/badge/Technova_Webpage-B9FBC0?style=for-the-badge&logo=View&logoColor=white"
-            />
-          </a>
-        </p>
-      </td>
-      <td>
-        <p>
-          <a href="https://john-da.github.io/csvViewer-ReactFlask/">
-            <img 
-              alt="icon" 
-              src="https://img.shields.io/badge/CSV_Viewer_On_ReactWEB-D8B4F8?style=for-the-badge&logo=View&logoColor=white"
-            />
-          </a>
-        </p>
-      </td>
-      <td>
-        <p>
-          <a href="https://sport-club-2vou.onrender.com/">
-            <img 
-              alt="icon" 
-              src="https://img.shields.io/badge/Sport_Club_Webpage-FFD6A5?style=for-the-badge&logo=View&logoColor=white"
-            />
-          </a>
-        </p>
-      </td>
-      <td>
-        <p>
-          <a href="https://github.com/John-Da/Binary-Object-Detection-using-YoloV8-plus-SAM">
-            <img 
-              alt="icon" 
-              src="https://img.shields.io/badge/YOLO_SAM_DET-C3FBD8?style=for-the-badge&logo=View&logoColor=white"
-            />
-          </a>
-        </p>
-      </td>
-    </tr>
-    <!-- 2nd Row -->
-    <tr>
-      <td>
-        <p>
-          <a href="https://github.com/John-Da/YoloV9-Panoptic-Captioning-Image-Using-Key2Text">
-            <img 
-              alt="icon" 
-              src="https://img.shields.io/badge/Image_Caption_YOLO_Key2Text-A5D8FF?style=for-the-badge&logo=View&logoColor=white"
-            />
-          </a>
-        </p>
-      </td>
-      <td>
-        <p>
-          <a href="https://github.com/John-Da/DetectTO-Mobile-WebBased-App">
-            <img 
-              alt="icon" 
-              src="https://img.shields.io/badge/Mobile_WebApp-2E2E2E?style=for-the-badge&logo=View&logoColor=white"
-            />
-          </a>
-        </p>
-      </td>
-      <td>
-        <p>
-          <a href="https://github.com/John-Da/Detection-Interface-Using-TKInter">
-            <img 
-              alt="icon" 
-              src="https://img.shields.io/badge/TKInter_GUI_DET-580F25?style=for-the-badge&logo=View&logoColor=white"
-            />
-          </a>
-        </p>
-      </td>
-  </table>
-</details>
-
-<hr/>
-
-<div>
-  <table border="0" cellspacing="10" cellpadding="0" width="100%">
-    <tr>
-      <!-- Left Column -->
-      <td align="center" valign="middle" width="8%">
-        <p>
-          <img 
-            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"
-            alt="Robot"
-            width="90"
-            height="90"
-            style="vertical-align: middle;"
-          />
-          <img
-            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
-            alt="Cat with Tears of Joy"
-            width="90"
-            height="90"
-            style="vertical-align: middle;"
-          />
-          &nbsp;&nbsp;&nbsp;
-          <img
-            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png"
-            alt="Heart On Fire"
-            width="90"
-            height="90"
-            style="vertical-align: middle;"
-          />
-    &nbsp;&nbsp;&nbsp;
-          <img
-            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Ping%20Pong.png"
-            alt="Bomb"
-            width="90"
-            height="90"
-            style="vertical-align: middle;"
-          />
-          &nbsp;&nbsp;&nbsp;
-        </p>
-      </td>
-      <!-- Right Column -->
-      <td align="center" width="92%" >
-        <p>
-          <img 
-            alt="GitHub Stats" width="55%"
-            src="https://github-readme-stats-mu-topaz-29.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117"
-          />
-          &nbsp;&nbsp;&nbsp;
-          <img width="35%"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=john-da&theme=github_dark&hide_border=true"
-            alt="Repos Per Language"
-          />
-        </p>
-        <p aligin="center">
-          <img width="100%"
-            src="https://github-readme-streak-stats-seven-ashen-44.vercel.app?user=john-da&theme=github_dark&hide_border=true"
-            alt="GitHub Streak"
-          />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
     
 <p align="center" valign="middle">
   <img 
