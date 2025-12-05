@@ -142,7 +142,7 @@ I mostly build prototypes and try out new experiments, learning as I go. I love 
         </p>
       </td>
       <!-- Right Column -->
-      <td valign="top" width="92%" >
+      <td align="center" width="92%" >
         <p>
           <img 
             alt="GitHub Stats" width="55%"
@@ -154,15 +154,10 @@ I mostly build prototypes and try out new experiments, learning as I go. I love 
             alt="Repos Per Language"
           />
         </p>
-        <p>
-          <img width="55%"
+        <p aligin="center">
+          <img width="100%"
             src="https://github-readme-streak-stats-seven-ashen-44.vercel.app?user=john-da&theme=github_dark&hide_border=true"
             alt="GitHub Streak"
-          />
-          &nbsp;&nbsp;&nbsp;
-          <img width="35%"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-da&hide_border=true&layout=compact&langs_count=8&theme=github_dark"
-            alt="Top Languages"
           />
         </p>
       </td>
