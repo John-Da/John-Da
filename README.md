@@ -6,11 +6,6 @@ I mostly build prototypes and try out new experiments, learning as I go. I love 
 
 [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg)](https://dahwa-portfolio.vercel.app/)
 
-<a href="https://dahwa-portfolio.vercel.app/" target="_blank">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg" />
-</a>
-
-
 <details>
   <summary><b>🔥 Project Highlights</b></summary>
   <br/>
