@@ -1,173 +1,146 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="50" height="50" /> &nbsp; Hello
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="60" height="60" />
 
-> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📖+Making+progresses+in;Web+Designs/Developments;Robotic/Dectections;2D/3D+Animation)]()
+<h2>
+  Hey, there..!
+</h2>
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+prototypes+%26+experiments;Web+%2F+Mobile+%2F+Backend+Development;Computer+Vision+%26+Robotics;2D+%2F+3D+Animation)](https://git.io/typing-svg)
+ 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-I mostly build prototypes and try out new experiments, learning as I go. I love turning ideas into real things, iterating quickly, and finding creative solutions that actually make a difference. Every experiment is a chance to grow, get creative, and challenge the usual way of doing things.
+<p align="center">
+  <img src="https://img.shields.io/badge/status-experimenting-58A6FF?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/focus-prototyping-orange?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/john-da?style=for-the-badge&labelColor=0d1117&color=58A6FF&label=Followers" />
+</p>
 
-[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg)](https://dahwa-portfolio.vercel.app/)
+## 👋 About Me
 
-<details>
-  <summary><b>🔥 Project Highlights</b></summary>
-  <br/>
-  <table align="center">
-    <!-- 1st Row -->
-    <tr>
-      <td colspan="2">
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://john-da.github.io/reactTfjs-cocossd/">
-          <img 
-            alt="COCO SSD" 
-            src="https://img.shields.io/badge/COCO_SSD_TFJS_ON_ReactWEB-00AFFF?style=for-the-badge&logo=View"
-          />
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://john-da.github.io/technova/">
-          <img 
-            alt="Technova" 
-            src="https://img.shields.io/badge/Technova_Webpage-B9FBC0?style=for-the-badge&logo=View&logoColor=white"
-          />
-        </a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://john-da.github.io/csvViewer-ReactFlask/">
-          <img 
-            alt="CSV Viewer" 
-            src="https://img.shields.io/badge/CSV_Viewer_On_ReactWEB-D8B4F8?style=for-the-badge&logo=View&logoColor=white"
-          />
-        </a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://sport-club-2vou.onrender.com/">
-          <img 
-            alt="Sport Club" 
-            src="https://img.shields.io/badge/Sport_Club_Webpage-FFD6A5?style=for-the-badge&logo=View&logoColor=white"
-          />
-        </a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/John-Da/YoloV9-Panoptic-Captioning-Image-Using-Key2Text">
-          <img 
-            alt="YOLO Key2Text" 
-            src="https://img.shields.io/badge/Image_Caption_YOLO_Key2Text-A5D8FF?style=for-the-badge&logo=View&logoColor=white"
-          />
-        </a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/John-Da/DetectTO-Mobile-WebBased-App">
-          <img 
-            alt="Mobile WebApp" 
-            src="https://img.shields.io/badge/Mobile_WebApp-2E2E2E?style=for-the-badge&logo=View&logoColor=white"
-          />
-        </a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/John-Da/Detection-Interface-Using-TKInter">
-          <img 
-            alt="TKInter GUI" 
-            src="https://img.shields.io/badge/TKInter_GUI_DET-580F25?style=for-the-badge&logo=View&logoColor=white"
-          />
-        </a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/John-Da/Binary-Object-Detection-using-YoloV8-plus-SAM">
-          <img 
-            alt="YOLO SAM DET" 
-            src="https://img.shields.io/badge/YOLO_SAM_DET-C3FBD8?style=for-the-badge&logo=View&logoColor=white"
-          />
-        </a>
-        &nbsp;&nbsp;&nbsp;
-      </td>
-    </tr>
-  </table>
-</details>
+- 🚀 Building prototypes and experimenting with new ideas.
+- 🤖 Interested in AI, robotics, and automation.
+- 💻 Creating tools that solve real-world problems.
+- ⚡ Learning by building, testing, and improving.
+- 🌱 Always exploring new technologies and challenging myself.
+ 
+<br>
 
 <table align="center" width="100%">
-  <!-- Top Stats Row -->
   <tr>
     <td align="center" colspan="3">
-      <img 
+      <img
         alt="GitHub Stats"
-        width="55%"
+        width="49%"
         src="https://github-readme-stats-mu-topaz-29.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117"
-      />
-      &nbsp;&nbsp;
-      <img 
-        width="40%"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=john-da&theme=github_dark&hide_border=true"
-        alt="Repos Per Language"
       />
     </td>
   </tr>
-  <!-- Left | Center | Right Emojis & Streak -->
+
   <tr>
-    <!-- Left Column -->
     <td align="center" valign="middle" width="10%">
-      <img 
-        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"
-        width="90"
-        height="90"
-      />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="80" height="80" />
       <br/><br/>
-      <img
-        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
-        width="90"
-        height="90"
-      />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" width="80" height="80" />
     </td>
-    <!-- Center Column -->
     <td align="center" valign="middle" width="80%">
-      <img 
+      <img
         src="https://github-readme-streak-stats-seven-ashen-44.vercel.app?user=john-da&theme=github_dark&hide_border=true"
         alt="GitHub Streak"
         width="75%"
       />
     </td>
-    <!-- Right Column -->
     <td align="center" valign="middle" width="10%">
-      <img
-        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png"
-        width="90"
-        height="90"
-      />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" width="80" height="80" />
       <br/><br/>
-      <img
-        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Ping%20Pong.png"
-        width="90"
-        height="90"
-      />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Ping%20Pong.png" width="80" height="80" />
     </td>
   </tr>
 </table>
 
-    
-<p align="center" valign="middle">
-  <img 
-    alt="John Da's Activity Graph"
+ <p align="center">
+  <img
+    width="30%"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=john-da&theme=github_dark&hide_border=true"
+    alt="Repos Per Language"
+  />
+</p>
+
+<p align="center">
+  <img
+    alt="John's Activity Graph"
+    width="95%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=john-da&theme=github-dark&hide_border=true&custom_title=Activity&hide_title=false"
   />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD92E" />
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="badge" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="badge" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="badge" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" alt="badge" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="badge" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="badge" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="badge" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=green" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-1E1E1E?style=flat-square&logo=figma&logoColor=F24E1E" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=vscode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Roboflow-111111?style=flat-square&logo=roboflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+</div>
+
+<br/>
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 </p>
 
-<br>
+**Backend**
 
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
+**AI / Computer Vision**
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Roboflow-111111?style=flat-square&logo=roboflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+</p>
+
+**Design & Tools**
+
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
+
+<br/>
+
+## 📫 Reach Me
+
+<p align="center">
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<p align="center"><i>⭐ from <a href="https://github.com/john-da">john-da</a></i></p>
 
