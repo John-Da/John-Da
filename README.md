@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="60" height="60" />
 
 <h2>
-  Hey, there..!
+  Hey, there..! I'm Da Hwa
 </h2>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+prototypes+%26+experiments;Web+%2F+Mobile+%2F+Backend+Development;Computer+Vision+%26+Robotics;2D+%2F+3D+Animation)](https://git.io/typing-svg)
