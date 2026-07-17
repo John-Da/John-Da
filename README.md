@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/github/followers/john-da?style=for-the-badge&labelColor=0d1117&color=58A6FF&label=Followers" />
 </p>
 
+---
+
 ## 👋 About Me
 
 - 🚀 Building prototypes and experimenting with new ideas.
@@ -24,7 +26,7 @@
 - ⚡ Learning by building, testing, and improving.
 - 🌱 Always exploring new technologies and challenging myself.
  
-<br>
+---
 
 <table align="center" width="100%">
   <tr>
@@ -78,7 +80,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 </div>
 
-<br/>
+---
 
 ## 🛠 Tech Stack
 
@@ -132,7 +134,7 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </p>
 
-<br/>
+---
 
 ## 📫 Reach Me
 
@@ -144,3 +146,4 @@
 
 <p align="center"><i>⭐ from <a href="https://github.com/john-da">john-da</a></i></p>
 
+---
