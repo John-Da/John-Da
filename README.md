@@ -7,7 +7,6 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+prototypes+%26+experiments;Web+%2F+Mobile+%2F+Backend+Development;Computer+Vision+%26+Robotics;2D+%2F+3D+Animation)](https://git.io/typing-svg)
  
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 <p align="center">
@@ -16,7 +15,8 @@
   <img src="https://img.shields.io/github/followers/john-da?style=for-the-badge&labelColor=0d1117&color=58A6FF&label=Followers" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 
 ## 👋 About Me
 
