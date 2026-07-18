@@ -23,7 +23,7 @@
 - 💻 Creating tools that solve real-world problems.
 - ⚡ Learning by building, testing, and improving.
 - 🌱 Always exploring new technologies and challenging myself.
- 
+
 ---
 
 <table align="center" width="100%">
@@ -80,6 +80,102 @@
 
 ---
 
+## 🚀 Projects
+ 
+<table>
+<tr>
+<td width="50%">
+ 
+### 🖥️ Detection Interface (TKInter)
+ 
+Desktop GUI for running object detection models with a simple TKInter-based interface.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/TKInter-41CD52?style=flat-square&logo=tk&logoColor=white"/>
+ 
+</td>
+
+<td width="50%">
+ 
+### 📱 DetectTO — Mobile Web Detection App
+
+Mobile, web-based object detection app built for on-device inference.
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+ 
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+ 
+### 🤖 Mobile Object Detector (ONNX + YOLO11m)
+
+Android app running YOLO11m via ONNX Runtime for real-time on-device object detection.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Onnx-005CED?style=flat-square&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+ 
+</td>
+
+<td width="50%">
+ 
+### 🖼️ YOLOv9 Panoptic Captioning (Key2Text)
+ 
+Image captioning pipeline combining YOLOv9 panoptic segmentation with Key2Text generation.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+ 
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+ 
+### 🎭 FaceMacher
+ 
+Desktop face matching & tracking tool built with PySide6, OpenCV, and ReID. Features a dual-mode live-annotation architecture for handling long video files and a multi-panel UI with webcam and video viewers.
+ 
+<br/>
+ 
+<img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+ 
+</td>
+<td width="50%">
+ 
+### 🎮 PyConsole
+ 
+Pygame-based handheld console OS launcher inspired by the Steam Deck and PS Vita. Includes a modular file structure, animated logo, PS Vita-style 3D carousel, slide-up info panel, and controller input handling.
+ 
+<br/>
+ 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pygame-000000?style=flat-square&logo=pygame&logoColor=white"/>
+ 
+</td>
+</tr>
+
+</table>
+
+---
+
 ## 🛠 Tech Stack
 
 #### Languages
@@ -95,6 +191,7 @@
 
 #### Frameworks
 <p>
+<img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
