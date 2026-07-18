@@ -8,8 +8,8 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-experimenting-58A6FF?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/focus-prototyping-orange?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/status-open--to--work-58A6FF?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/focus-computer--vision-orange?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/github/followers/john-da?style=for-the-badge&labelColor=0d1117&color=58A6FF&label=Followers" />
 </p>
 
