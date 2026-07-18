@@ -147,7 +147,7 @@ Image captioning pipeline combining YOLOv9 panoptic segmentation with Key2Text g
 <tr>
 <td width="50%">
  
-### 🎭 FaceMacher
+### 🎭 FaceMatcher
  
 Desktop face matching & tracking tool built with PySide6, OpenCV, and ReID. Features a dual-mode live-annotation architecture for handling long video files and a multi-panel UI with webcam and video viewers.
  
