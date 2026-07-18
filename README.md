@@ -244,7 +244,7 @@ Pygame-based handheld console OS launcher inspired by the Steam Deck and PS Vita
 ## 📫 Reach Me
 
 <p align="center">
-  <a target="_blank" href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a target="_blank" href="https://www.instagram.com/meetoo.jj223/"><img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a target="_blank" href="https://linkedin.com/in/dahwayen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a target="_blank" href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
