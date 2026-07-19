@@ -251,4 +251,3 @@ Pygame-based handheld console OS launcher inspired by the Steam Deck and PS Vita
 
 <p align="center"><i>⭐ from <a href="https://github.com/john-da">john-da</a></i></p>
 
----
