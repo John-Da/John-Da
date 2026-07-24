@@ -95,6 +95,8 @@ Desktop GUI for running object detection models with a simple TKInter-based inte
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/TKInter-41CD52?style=flat-square&logo=tk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ultralytics%20YOLO-111111?style=flat-square&logo=ultralytics&logoColor=white"/>
+
  
 </td>
 
@@ -110,6 +112,7 @@ Mobile, web-based object detection app built for on-device inference.
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ultralytics%20YOLO-111111?style=flat-square&logo=ultralytics&logoColor=white"/>
  
 </td>
 </tr>
@@ -125,7 +128,7 @@ Android app running YOLO11m via ONNX Runtime for real-time on-device object dete
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Onnx-005CED?style=flat-square&logo=onnx&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ultralytics%20YOLO-111111?style=flat-square&logo=ultralytics&logoColor=white"/>
  
 </td>
 
@@ -139,7 +142,7 @@ Image captioning pipeline combining YOLOv9 panoptic segmentation with Key2Text g
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ultralytics%20YOLO-111111?style=flat-square&logo=ultralytics&logoColor=white"/>
  
 </td>
 </tr>
@@ -153,10 +156,16 @@ Desktop face matching & tracking tool built with PySide6, OpenCV, and ReID. Feat
  
 <br/>
  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
- 
+<img src="https://img.shields.io/badge/Ultralytics%20YOLO-111111?style=flat-square&logo=ultralytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/OSNet-1E88E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/BoxMOT%20OccluBoost-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TorchVision-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Torchreid-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+
 </td>
 <td width="50%">
  
@@ -215,7 +224,7 @@ Pygame-based handheld console OS launcher inspired by the Steam Deck and PS Vita
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Roboflow-111111?style=flat-square&logo=roboflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ultralytics%20YOLO-111111?style=flat-square&logo=ultralytics&logoColor=white"/>
 <img src="https://img.shields.io/badge/Onnx-005CED?style=flat-square&logo=onnx&logoColor=white"/>
 </p>
 
