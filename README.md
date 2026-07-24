@@ -200,6 +200,7 @@ Pygame-based handheld console OS launcher inspired by the Steam Deck and PS Vita
 
 #### Frameworks
 <p>
+<img src="https://img.shields.io/badge/Tkinter-BA1D94?style=flat-square&logo=tk&logoColor=white"/>
 <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
