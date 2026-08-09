@@ -34,6 +34,12 @@
         width="49%"
         src="https://github-stats-extended.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117&show_icons=true"
       />
+     <!-- <img
+       width="32%"
+       src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=john-da&theme=github_dark&hide_border=true"
+       alt="Repos Per Language"
+     /> -->
+     <img width="32%" alt="Repos/Language" src="https://github-stats-extended.vercel.app/api/top-langs?username=john-da&layout=compact&langs_count=6&theme=ambient_gradient"/>
     </td>
   </tr>
 
@@ -57,14 +63,6 @@
     </td>
   </tr>
 </table>
-
- <p align="center">
-  <img
-    width="30%"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=john-da&theme=github_dark&hide_border=true"
-    alt="Repos Per Language"
-  />
-</p>
 
 <p align="center">
   <img
