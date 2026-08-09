@@ -32,7 +32,7 @@
       <img
         alt="GitHub Stats"
         width="49%"
-        src="https://github-readme-stats-mu-topaz-29.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117"
+        src="https://github-readme-stats-mu-topaz-29.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117&show_icons=true"
       />
     </td>
   </tr>
