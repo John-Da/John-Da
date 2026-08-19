@@ -68,7 +68,7 @@
   <img
     alt="John's Activity Graph"
     width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=john-da&theme=github-dark&hide_border=true&custom_title=Activity&hide_title=false"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=john-da&theme=github-dark&hide_border=true&custom_title=Activity"
   />
 </p>
 
