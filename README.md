@@ -31,15 +31,15 @@
     <td align="center" colspan="3">
       <img
         alt="GitHub Stats"
-        width="49%"
+        width="34%"
         src="https://github-stats-extended.vercel.app/api?username=john-da&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117&show_icons=true"
       />
-     <!-- <img
-       width="32%"
+     <img
+       width="24%"
        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=john-da&theme=github_dark&hide_border=true"
        alt="Repos Per Language"
-     /> -->
-     <img width="32%" alt="Repos/Language" src="https://github-stats-extended.vercel.app/api/top-langs?username=john-da&layout=compact&langs_count=6&theme=ambient_gradient"/>
+     />
+     <img width="26%" alt="Repos/Language" src="https://github-stats-extended.vercel.app/api/top-langs?username=john-da&layout=compact&langs_count=6&theme=ambient_gradient"/>
     </td>
   </tr>
 
@@ -63,14 +63,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img
-    alt="John's Activity Graph"
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=john-da&theme=github-dark&hide_border=true&custom_title=Activity"
-  />
-</p>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
