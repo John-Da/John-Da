@@ -249,5 +249,5 @@ Pygame-based handheld console OS launcher inspired by the Steam Deck and PS Vita
   <a target="_blank" href="https://da-hwa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>⭐ from <a href="https://github.com/john-da">john-da</a></i></p>
+<p align="center"><i>⭐ from <a href="https://github.com/john-da" target="_blank">john-da</a></i></p>
 
